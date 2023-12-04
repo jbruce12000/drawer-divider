@@ -5,9 +5,10 @@ Openscad file to create a drawer divider
 Features:
 
 - created using openscad
-- create dividers of any height and length
+- create dividers of any height, length, and thickness
 - create connectors for dividers bigger than you can print and join two or more
-- tight fit but, easy to install
+- tight tolerances, but easy to install
+- no trimming, print to fit
 
 Instructions:
 
