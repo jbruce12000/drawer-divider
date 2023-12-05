@@ -1,3 +1,5 @@
+![drawer divider](https://raw.githubusercontent.com/jbruce12000/drawer-divider/main/artwork/drawer-divider.png)
+
 # drawer-divider
 
 Openscad file to create a drawer divider
