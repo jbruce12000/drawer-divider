@@ -16,5 +16,5 @@ Instructions:
 
 - measure your drawer
 - using openscad or thingiverse customizer, create dividers of the length and height you need
-- if dividers are too long to print, show the connector and it will be sized to fit the specific divider you customized. This way you can make dividers as long as you want.
+- if dividers are too long to print, print multiple dividers and print as many connectors as you need to join them. Hide the divider, show the connector. The connector will fit your customized divider.
 
